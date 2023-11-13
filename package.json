@@ -1,0 +1,18 @@
+{
+  "name": "minify-xml-cjs",
+  "version": "0.1.0",
+  "description": "Exposes the 'minify-xml' module as a cjs dependency",
+  "main": "index.js",
+  "keywords": [
+    "cjs",
+    "minify-xml"
+  ],
+  "author": "Phil Olson",
+  "license": "SEE LICENSE IN license.txt",
+  "peerDependencies": {
+    "minify-xml": "4.x"
+  },
+  "dependencies": {
+    "fix-esm": "^1.0.1"
+  }
+}
