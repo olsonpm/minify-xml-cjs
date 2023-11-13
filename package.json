@@ -1,6 +1,6 @@
 {
   "name": "minify-xml-cjs",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Exposes the 'minify-xml' module as a cjs dependency",
   "main": "index.js",
   "keywords": [
